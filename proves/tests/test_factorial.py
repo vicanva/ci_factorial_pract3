@@ -1,5 +1,5 @@
 import unittest
-from pract3.src.factorial import factorials
+from src.factorial import factorials
 
 
 class TestSuma(unittest.TestCase):
